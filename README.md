@@ -1,2 +1,2 @@
-get CSV file from:
+get the CSV file from:
 https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots?resource=download
